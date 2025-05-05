@@ -1,1 +1,2 @@
 # HR-ANALYTICS
+Developed an advanced HR Analytics application leveraging Machine Learning techniques (Random forest, Logistic Regression, Gradient Boosting Classifier, Gaussian Naive Bayes) to predict employee attrition. The project involved analyzing HR data and applying various ML algorithms to identify employees who are more likely to leave the organization based on specific attributes. This predictive model helps in proactive decision making and improves employee retention with an accuracy of 98.64%.
